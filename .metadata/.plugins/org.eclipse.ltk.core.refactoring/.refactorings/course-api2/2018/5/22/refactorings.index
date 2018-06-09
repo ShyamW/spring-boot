@@ -1,0 +1,6 @@
+1527794905181	Copy package
+1527794922451	Rename type 'Topic'
+1527794937604	Rename type 'TopicController'
+1527794945565	Rename type 'TopicRepository'
+1527794950680	Rename type 'TopicService'
+1527795592405	Encapsulate field 'topic'

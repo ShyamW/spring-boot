@@ -1,0 +1,12 @@
+package io.javabrains.springbootstarter.topic;
+
+public class TopicRepository {
+	
+	// get all topics
+	
+	// get topics given id
+	
+	// update topics from topic
+	
+	
+}

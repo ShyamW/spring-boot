@@ -1,0 +1,11 @@
+package io.javabrains.springbootstarter.topic;
+
+import org.springframework.data.repository.CrudRepository;
+
+/* extend crud repo with topics id'd by string id */
+public interface TopicRepository extends CrudRepository<Topic, String> {
+	
+	
+	
+	
+}

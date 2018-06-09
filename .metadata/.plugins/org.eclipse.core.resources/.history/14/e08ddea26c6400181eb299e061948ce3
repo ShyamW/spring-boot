@@ -1,0 +1,14 @@
+package io.javabrains.springbootstarter.topic;
+
+public interface TopicRepository {
+	
+	// get all topics
+	
+	// get topics given id
+	
+	// update topics from topic
+	
+	// delete topic (String id)
+	
+	
+}
